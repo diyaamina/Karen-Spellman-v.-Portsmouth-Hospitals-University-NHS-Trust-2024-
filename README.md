@@ -1,4 +1,6 @@
 # Karen-Spellman-v.-Portsmouth-Hospitals-University-NHS-Trust-2024-
+### Who is Karen Spellman?:
+
 ### Medical History & Background:
 Karen had a history of acute back problems dating back to 2003, including multiple surgical interventions over the years between 2005 and 2006 particularly at the L4/L5 level. Her spine was described as "poor quality", with signs of canal stenosis (narrowing of the spinal canal).
 She also suffered from long standing bladder and urinary issues, which are relevant in diagnosing Cauda Equina Syndrome (CES), a condition that affects the pelvic organ function. She had problems with bladder control, including urinary retention and intermittent self-catheterisation. 
