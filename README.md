@@ -17,7 +17,8 @@ Spellman alleged that the Trust negligently failed to identify CES on the initia
 
 ### Application:
 ### Timeline of events:
-2003: Karen Spellman first reports acute back pain.
+
+2003: Karen Spellman first reports acute back pain and scaitcia to her GP.
 
 
 2005 - 2006: Undergoes multiple spinal surgeries, especially at the L4/L5 level.
