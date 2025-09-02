@@ -20,7 +20,9 @@ Karen Spellman had a long history of spinal and urological issues as discussed u
 After a fall at work in June 2017, she experienced radiating back pain down her legs and into her left buttock, difficulty walking and standing, and neurological symptoms consistent with CES.
 
 
-She visited Queen Alexandera Hospital in Portsmouth on the 6th June 2017. This was the day after she had a fall at work, her GP referred her to hospital after consulting with an orthopaedic registrar, and she was seen by an orthopaedic doctor who ordered an MRI scan that day. The scan was reviewed by a consultant radiologist, Dr. Witham, but was affected by movement artefact. Despite some mild central canal stenosis, the clinical team concluded that her symptoms were not of serious concern, and she was discharged later that day without further tests or imaging. On 12th June 2017, 6 days after being discharged as an outpatient, she sought a private spinal surgeon who diagnosed CES and performed urgent decompression surgery the same day.
+She visited Queen Alexandera Hospital in Portsmouth on the 6th June 2017. This was the day after she had a fall at work, her GP referred her to hospital after consulting with an orthopaedic registrar, and she was seen by an orthopaedic doctor who ordered an MRI scan that day. The scan was reviewed by a consultant radiologist, Dr. Witham, but was affected by movement artefact. 
+
+Despite some mild central canal stenosis, the clinical team concluded that her symptoms were not of serious concern, and she was discharged later that day without further tests or imaging. On 12th June 2017, 6 days after being discharged as an outpatient, she sought a private spinal surgeon who diagnosed CES and performed urgent decompression surgery the same day.
 ### Issues:
 Spellman alleged that the Trust negligently failed to identify CES on the initial MRI, delaying treatment and causing permenant harm and damage. 
 
@@ -28,6 +30,7 @@ Spellman alleged that the Trust negligently failed to identify CES on the initia
 The Trust argued she did not have CES at that time and that surgery wouldn't have changed the outcome.
 
 ### Legal Context:
+Her hearing dates were on the 23rd till the 30th of October 2023. Cara Guthrie represented her (claiment) as instructed by Irwin Mitchell LLP, while Anna Hughes represented Pourtsmouth Hospitals NHS trust (defendant) as instructed by DAC Beachcroft.
 
 ### Application:
 
