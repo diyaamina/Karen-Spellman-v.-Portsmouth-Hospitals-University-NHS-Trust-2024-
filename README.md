@@ -18,22 +18,56 @@ Spellman alleged that the Trust negligently failed to identify CES on the initia
 ### Application:
 ### Timeline of events:
 2003: Karen Spellman first reports acute back pain.
+
+
 2005 - 2006: Undergoes multiple spinal surgeries, especially at the L4/L5 level.
+
+
 Pre-2017: Experiences recurring neurological symptoms and bladder issues.
+
+
 5th June 2017: Falls at work, triggering radiating back pain and mobility problems.
+
+
 6th June 2017 (AM): Consults GP, who speaks to orthopaedic registrar and refers her to the hospital.
+
+
 6th June 2017 (PM): Presents at Queen Alexandra Hospital, Portsmouth.
+
+
 MRI scan performed but affected by movement artefact.
+
+
 Consultant radiologist Dr. Witham reports mild central canal stenosis.
+
+
 No diagnosis of Cauda Equina Syndrome (CES); Spellman is discharged.
+
+
 7th - 11th June 2017: Symptoms worsen i.e. urinary retention, numbness, and increased pain.
+
+
 12th June 2017: Seeks private spinal surgeon's opinion
+
+
 Diagnosed with CES and undergoes urgent decompression surgery
+
+
 No new MRI requested; no consultation notes recorded
+
+
 Post 2017 - 2023: Spellman initiates legal proceedings against the NHS Trust.
+
+
 31st July 2024: High Court trail held before Mr Justice Sweeting.
+
+
 Claim dismissed, no breach of duty found.
+
+
 28th November 2024: Case published as a "Case of Note" by NHS Resolution
+
+
 ### Conclusion:
 
 ### Reflection:
