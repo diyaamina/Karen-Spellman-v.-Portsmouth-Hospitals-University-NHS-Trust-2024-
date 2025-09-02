@@ -90,7 +90,7 @@ Claim dismissed, no breach of duty found.
 ### Conclusion:
 
 ### Reflection:
-
+The court applied the Bolam standard to assess whether the radiologist acted within a reasonable body of medical opinion. But this case shows that even when clinicans follow accepted practice, patients can still suffer harm. Spellman's damages were agreed at £300,000, but without proving causation, she recieved nothing. This highlights how crucial it is to link breach of duty directly to harm. As a future lawyer, I'd want to ensure that clients understand this barrier early in the litigation process.
 
 
 
