@@ -74,7 +74,7 @@ The core of the case was a negligence claim: Spellman alleged that the Trust fai
 The court examined whether the hospital breached its duty of care, and whether that breach caused her harm.
 
 Diagnostic Negligence (Pure Diagnosis Cases):
-The court applied the framework from: Penny v East Kent Health Authority (2000) Lloyd's Rep Med 41, Brady v Southend University Hospital NHS Foundatioj Trust (2020) EWHC 158 (QB)
+The court applied the framework from: Penny v East Kent Health Authority (2000) Lloyd's Rep Med 41, Brady v Southend University Hospital NHS Foundation Trust (2020) EWHC 158 (QB)
 The cases established a two step test:
 1. What was visible on the scan as a matter of fact?
 2. Was the interpretation reasonable under the Bolam test?
