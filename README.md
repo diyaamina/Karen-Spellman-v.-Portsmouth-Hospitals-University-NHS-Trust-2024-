@@ -1,6 +1,6 @@
 # Karen-Spellman-v.-Portsmouth-Hospitals-University-NHS-Trust-2024-
 ### Who is Karen Spellman?:
-Karen Spellman was born in 1964, making her approximately 61 years old as of 2025. Her occupation at the time of the incident aren't publically or explicitly stated in the legal documents. But she was described as having fallen at work, which suggests she was employed, possibly in a physically active or administrative role.
+Her occupation at the time of the incident aren't publically or explicitly stated in the legal documents. But she was described as having fallen at work, which suggests she was employed, possibly in a physically active or administrative role.
 
 ### Medical History & Background:
 Karen had a history of acute back problems dating back to 2003, including multiple surgical interventions over the years between 2005 and 2006 particularly at the L4/L5 level. Her spine was described as "poor quality", with signs of canal stenosis (narrowing of the spinal canal) noted in later imaging.
@@ -26,11 +26,45 @@ Despite some mild central canal stenosis, the clinical team concluded that her s
 ### Issues:
 Spellman alleged that the Trust negligently failed to identify CES on the initial MRI, delaying treatment and causing permenant harm and damage. 
 
-
 The Trust argued she did not have CES at that time and that surgery wouldn't have changed the outcome.
 
 ### Legal Context:
 Her hearing dates were on the 23rd till the 30th of October 2023. Cara Guthrie represented her (claiment) as instructed by Irwin Mitchell LLP, while Anna Hughes represented Pourtsmouth Hospitals NHS trust (defendant) as instructed by DAC Beachcroft.
+
+The court classified the case as a "pure diagnosis" case, meaning the legal test focused on whether the MRI scan was interpreted reasonably, not whether the treatment was delayed or mismanaged.
+
+The judge, Mr Justice Sweeting, applied a two step test drawn from Penny v East Kent Health Authority and Brandy v Southend University Hospital NHS Foundation Trust:
+
+Factual Analysis: What was actually visible on the MRI scan taken on 6th June 2017?
+
+Bolam Test: Did the radiologist's interpretation fall within the range of views held by a responsible body of medical opinion?
+
+The court focused on two central questions:
+# Did the Trust breach its duty of care?
+The MRI scan was compromised by movement artefact.
+The radiologist reported mild spinal canal narrowing but did not diagnose CES.
+The court applied the Bolam test, asking whether the radiologist's interpretation was reasonable by professional standards. 
+
+# Did the delay cause harm?
+Spellman underwent surgery on 12th of June, after a private diagnosis.
+The court considered whether earlier surgery would have improved her outcome.
+Her complex medical history (including prior spinal surgeries and chronic bladder issues) made this difficult to prove.
+
+Key conderations included: 
+
+The MRI was degraded by movement artefact.
+The radiologist reported mild central canal stenosis, not CES.
+The claimant's expert misidentified pathology at the wrong spinal level, undermining credibility.
+The private surgeon who operated on 12th of June didn't request a new MRI on record consultation notes.
+
+The court found: 
+
+The MRI did not show acute cauda equina compression.
+The radiologist's report was reasonable and defensible under the Bolam standard.
+Even if the CES had been present, earlier surgery would not likely have improved the outcome, due to Spellman's complex medical history (including prior spinal surgeries and chronic urological issues)
+
+So, while the harm was real, the legal threshold for breach and causation wasn't met. The agreed damages of £300,000 were never awarded because liability wasn't established. The court found no breach of duty and no proven causation.
+
 
 ### Application:
 
@@ -91,6 +125,8 @@ Claim dismissed, no breach of duty found.
 
 ### Reflection:
 The court applied the Bolam standard to assess whether the radiologist acted within a reasonable body of medical opinion. But this case shows that even when clinicans follow accepted practice, patients can still suffer harm. Spellman's damages were agreed at £300,000, but without proving causation, she recieved nothing. This highlights how crucial it is to link breach of duty directly to harm. As a future lawyer, I'd want to ensure that clients understand this barrier early in the litigation process.
+
+This case is a powerful example of how legal standards like Bolam and Montgomery shape outcomes in medical law, and how causation can be the deciding factor even when harm is evident.
 
 
 
