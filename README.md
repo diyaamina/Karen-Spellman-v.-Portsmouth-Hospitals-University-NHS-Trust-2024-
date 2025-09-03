@@ -41,12 +41,14 @@ Factual Analysis: What was actually visible on the MRI scan taken on 6th June 20
 Bolam Test: Did the radiologist's interpretation fall within the range of views held by a responsible body of medical opinion?
 
 The court focused on two central questions:
-## Did the Trust breach its duty of care?
+
+
+Did the Trust breach its duty of care?
 The MRI scan was compromised by movement artefact.
 The radiologist reported mild spinal canal narrowing but did not diagnose CES.
 The court applied the Bolam test, asking whether the radiologist's interpretation was reasonable by professional standards. 
 
-## Did the delay cause harm?
+Did the delay cause harm?
 Spellman underwent surgery on 12th of June, after a private diagnosis.
 The court considered whether earlier surgery would have improved her outcome.
 Her complex medical history (including prior spinal surgeries and chronic bladder issues) made this difficult to prove.
