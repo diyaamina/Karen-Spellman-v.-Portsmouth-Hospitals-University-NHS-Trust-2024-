@@ -2,7 +2,7 @@
 ### Who is Karen Spellman?:
 Her occupation at the time of the incident aren't publically or explicitly stated in the legal documents. But she was described as having fallen at work, which suggests she was employed, possibly in a physically active or administrative role.
 
-### Medical History & Background:
+### Summary of Medical History & Background:
 Karen had a history of acute back problems dating back to 2003, including multiple surgical interventions over the years between 2005 and 2006 particularly at the L4/L5 level. Her spine was described as "poor quality", with signs of canal stenosis (narrowing of the spinal canal) noted in later imaging.
 
 
@@ -172,13 +172,33 @@ Claim dismissed, no breach of duty found.
 Case published as a "Case of Note" by NHS Resolution
 
 
-### Conclusion:
+### What could have been done differently?:
+
+Clinically:
+
+
+Repeat MRI: The original scan was compromised by movement artefact. A repeat scan could have clarified the diagnosis and reduced uncertainty.
+
+Better Documentation: The private surgeon who diagnosed CES did not request a new MRI or record consultation notes. This weakened the credibility of the diagnosis.
+
+Clearer Symptom Timeline: Spellman did not disclose her fall to the GP, instead reporting symptoms as having started three days earlier. This muddled the clinical picture.
+
+
+Legally:
+
+
+Stronger Expert Evidence: The claimant’s radiology expert misidentified pathology at the wrong spinal level, which undermined the case. More precise and credible expert testimony might have shifted the outcome.
+
+
+Focus on Systemic Factors: The case didn’t explore whether NHS resource constraints (e.g. time pressure, staffing) influenced the decision to discharge. That could have opened regulatory or ethical avenues.
+
 
 ### Reflection:
-The court applied the Bolam standard to assess whether the radiologist acted within a reasonable body of medical opinion. But this case shows that even when clinicans follow accepted practice, patients can still suffer harm. Spellman's damages were agreed at £300,000, but without proving causation, she recieved nothing. This highlights how crucial it is to link breach of duty directly to harm. As a future lawyer, I'd want to ensure that clients understand this barrier early in the litigation process.
+The court applied the Bolam standard to assess whether the radiologist acted within a reasonable body of medical opinion. But this case shows that even when clinicans follow accepted practice, patients can still suffer harm. Spellman's damages were agreed at £300,000, but without proving causation, she recieved nothing. This highlights how crucial it is to link breach of duty directly to harm. As a future lawyer, I'd want to ensure that clients understand this barrier early in the litigation process. 
 
 This case is a powerful example of how legal standards like Bolam and Montgomery shape outcomes in medical law, and how causation can be the deciding factor even when harm is evident.
 
+If I were the involved in the legal proceedings in Karen Spellman v. Portsmouth Hospitals University NHS Trust, I would have acknowledged the clinical complexity of the case but placed greater emphasis on the ethical duty to act cautiously when diagnostic uncertainty exists. While the MRI scan was compromised by movement artefact, the presence of red flag symptoms: radiating pain, mobility issues, and a history of urological dysfunction should have triggered a more precautionary response, such as repeat imaging or short-term admission for observation. I would have issued a strong obiter statement urging NHS Trusts to adopt clearer protocols for managing borderline CES presentations, especially when scans are inconclusive. Though the legal standard under Bolam may have been met, the broader principle of patient safety demands a more proactive approach. In doing so, I would aim not only to resolve the case fairly, but to signal to the medical and legal communities that diagnostic diligence must evolve alongside clinical risk.
 
 
 ### Bibliography:
