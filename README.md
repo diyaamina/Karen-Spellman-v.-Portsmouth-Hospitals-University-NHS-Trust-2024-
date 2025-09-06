@@ -93,86 +93,8 @@ Quantum of Damages:
 Although damages were agreed at £300,000, they were not awarded because liability wasn’t established.
 This reflects how quantum (amount of compensation) is separate from proving fault.
 
-
-### Timeline of events:
-
-2003:
-
-
-Karen Spellman first reports acute back pain and scaitcia to her GP.
-
-
-2005 - 2006:
-
-
-Undergoes multiple spinal surgeries, especially at the L4/L5 level. Admitted constantly for slips and falls resulting in back pain, leg pain and on and offs regarding urinary related issues.
-
-
-Pre-2017:
-
-
-Experiences recurring neurological symptoms and bladder issues.
-
-
-5th June 2017:
-
-
-Falls at work, triggering radiating back pain and mobility problems.
-
-
-6th June 2017 (AM): 
-
-
-Consults GP, who speaks to orthopaedic registrar and refers her to the hospital.
-
-
-6th June 2017 (PM):
-
-
-Presents at Queen Alexandra Hospital, Portsmouth.
-
-MRI scan performed but affected by movement artefact.
-
-Consultant radiologist Dr. Witham reports mild central canal stenosis.
-
-No diagnosis of Cauda Equina Syndrome (CES); Spellman is discharged.
-
-
-7th - 11th June 2017: 
-
-
-Symptoms worsen i.e. urinary retention, numbness, and increased pain.
-
-
-12th June 2017: 
-
-
-Seeks private spinal surgeon's opinion
-
-Diagnosed with CES and undergoes urgent decompression surgery
-
-No new MRI requested; no consultation notes recorded
-
-
-Post 2017 - 2023: 
-
-
-Spellman initiates legal proceedings against the NHS Trust.
-
-
-31st July 2024:
-
-
-High Court trail held before Mr Justice Sweeting.
-
-Claim dismissed, no breach of duty found.
-
-
-28th November 2024: 
-
-
-Case published as a "Case of Note" by NHS Resolution
-
+### Trail Outcome:
+During the trial, expert witnesses debated whether the scan showed acute CES. The Trust maintained that the scan revealed only mild narrowing and that their interpretation met accepted clinical standards. The High Court ultimately sided with the Trust, finding no breach of duty and concluding that the claimant’s expert had misinterpreted the imaging. The claim was dismissed, and no damages were awarded.
 
 ### What could have been done differently?:
 
