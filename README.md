@@ -127,7 +127,11 @@ If I were the involved in the legal proceedings in Karen Spellman v. Portsmouth 
 
 ### Bibliography:
 https://mshawbarrister.com/wp-content/uploads/2024/08/Spellman-v-Portsmouth-Hospitals-University-NHS-Trust-2024-EWHC-2011-KB_Attachment1.pdf
+
+
 https://resolution.nhs.uk/2024/11/28/case-of-note-karen-spellman-v-portsmouth-hospitals-university-nhs-trust-high-court-31-july-2024-sweeting-j/
+
+
 https://www.2tg.co.uk/anna-hughes-successfully-represented-the-defendant-nhs-trust-in-the-case-of-spellman-v-portsmouth-hospitals-university-nhs-trust-2024-ewhc-2011-kb/
 
 
